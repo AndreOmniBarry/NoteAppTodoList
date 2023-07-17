@@ -1,6 +1,6 @@
-# Vite Vue Starter
+# Note App/Todo List
 
-This is a project template using [Vite](https://vitejs.dev/). It requires [Node.js](https://nodejs.org) v12+.
+This project template was developed using [Vite](https://vitejs.dev/). It requires [Node.js](https://nodejs.org) v12+.
 
 To start:
 
